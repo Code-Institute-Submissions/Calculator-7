@@ -61,6 +61,13 @@ JS Hint Checker
  
 ![image](https://github.com/Imalsha0330/Calculator/assets/131761126/d0f99f8a-234d-4404-b3b2-a68006b600b6)
 
+# Skeleton
+
+To Create the Skeleton Balsamiq wireframe were used.
+
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/8cfdeef6-b709-4a43-aeed-7e5fd909ac30)
+
+
 # Deployment
   
 * This site was deployed via GitHub pages using the following steps:
@@ -72,6 +79,6 @@ JS Hint Checker
 
 # Credits
   
- * Stack Overflow for codes.
+ * Stack Overflow For JavaScript Equal Button Code. 
   
 
