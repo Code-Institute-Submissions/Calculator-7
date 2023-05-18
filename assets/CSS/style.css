@@ -22,7 +22,7 @@ body { /* Body of the HTML page*/
     overflow: hidden;
 }
 
-form input { /*Display bar of the calculator*/
+form input { /*Screen of the calculator*/
     width: 100%;
     height: 150px;
     border: none;
