@@ -9,23 +9,56 @@ A browser based calculator which created for addition, substraction, division & 
 ## Features
 
 ![image](https://github.com/Imalsha0330/Calculator/assets/131761126/a2ffc0b3-bfe9-483b-bb84-caa0ad670410)
-The main screen helps to show the basic addition, subtraction, multiplication and division mathematical calculations.
+The main screen helps to show the addition, subtraction, multiplication and division mathematical calculations.
 
-# returns 'words'
-foobar.pluralize('word')
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/aee0c119-c8db-4623-b06f-13db9f67a023)
+These buttons help to do the basic mathematical calculations.
 
-# returns 'geese'
-foobar.pluralize('goose')
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/8e643f45-7c0b-46ca-8a98-ac998da05154)
+The number buttons.
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/ea0bb05b-d1e2-4bfa-abbb-24ea78600b9b)
+The equal button helps to get the result of the calculation.
 
-## Contributing
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/74cbc5d6-1d16-4bee-9eb7-cf674f584394)
+The Clear button helps to clear the result on the screen. 
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+# Testing
+* Tested on Google Chrome
+* Tested on Internet Explore
 
-Please make sure to update tests as appropriate.
+# Bugs 
+* Bugs founded on the <section>. Converted it to a <div> as per the instructions on W3C validator.
+* Few spelling mistakes / typing errors were founded, such as <dvi>. Corrected them to <div>
+* Missing semicolon errors were founded in JS. Added the semicolons as well. 
 
-## License
+# Validator Checks.
+  
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/f9b8fcb1-7b1f-42da-b2d6-427d1eba1568)
+ W3C HTML validator
+
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/de42462a-bcfe-4a9e-b484-ef7669b8c33f)
+ W3C CSS Jigsaw validator
+
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/1ccc18f2-26b2-481a-afb9-5755594269a9)
+JS Hint Checker
+
+
+# Accessibility in Lighthouse.
+ 
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/d0f99f8a-234d-4404-b3b2-a68006b600b6)
+
+# Deployment
+  
+* This site was deployed via GitHub pages using the following steps:
+
+* From the GitHub repository, navigate to Settings
+* In the left-hand navigation section select Pages
+* From the source section drop-down menu change Branch from none to main and click the Save
+* After several minutes website will be live. 
+
+# Credits
+  
+ * Stack Overflow for codes.
+  
+
