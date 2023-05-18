@@ -40,6 +40,11 @@ The Clear button helps to clear the result on the screen.
 # Unfixed bugs
 * No unfixed bugs.
 
+# Languages Used
+* HTML 
+* CSS 
+* JavaScript
+
 # Validator Checks.
   
 ![image](https://github.com/Imalsha0330/Calculator/assets/131761126/f9b8fcb1-7b1f-42da-b2d6-427d1eba1568)
