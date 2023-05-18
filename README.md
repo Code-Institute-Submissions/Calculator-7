@@ -37,6 +37,9 @@ The Clear button helps to clear the result on the screen.
 * Few spelling mistakes / typing errors were founded, such as "dvi". Corrected them to "div"
 * Missing semicolon errors were founded in JS. Added the semicolons as well. 
 
+# Unfixed bugs
+* No unfixed bugs.
+
 # Validator Checks.
   
 ![image](https://github.com/Imalsha0330/Calculator/assets/131761126/f9b8fcb1-7b1f-42da-b2d6-427d1eba1568)
