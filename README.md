@@ -33,8 +33,8 @@ The Clear button helps to clear the result on the screen.
 * Tested on Internet Explore
 
 # Bugs 
-* Bugs founded on the <section>. Converted it to a <div> as per the instructions on W3C validator.
-* Few spelling mistakes / typing errors were founded, such as <dvi>. Corrected them to <div>
+* Bugs founded on the "section". Converted it to a "div" as per the instructions on W3C validator.
+* Few spelling mistakes / typing errors were founded, such as "dvi". Corrected them to "div"
 * Missing semicolon errors were founded in JS. Added the semicolons as well. 
 
 # Validator Checks.
