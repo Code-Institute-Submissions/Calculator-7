@@ -9,18 +9,23 @@ A browser based calculator which created for addition, substraction, division & 
 ## Features
 
 ![image](https://github.com/Imalsha0330/Calculator/assets/131761126/a2ffc0b3-bfe9-483b-bb84-caa0ad670410)
+
 The main screen helps to show the addition, subtraction, multiplication and division mathematical calculations.
 
 ![image](https://github.com/Imalsha0330/Calculator/assets/131761126/aee0c119-c8db-4623-b06f-13db9f67a023)
+
 These buttons help to do the basic mathematical calculations.
 
 ![image](https://github.com/Imalsha0330/Calculator/assets/131761126/8e643f45-7c0b-46ca-8a98-ac998da05154)
+
 The number buttons.
 
 ![image](https://github.com/Imalsha0330/Calculator/assets/131761126/ea0bb05b-d1e2-4bfa-abbb-24ea78600b9b)
+
 The equal button helps to get the result of the calculation.
 
-![image](https://github.com/Imalsha0330/Calculator/assets/131761126/74cbc5d6-1d16-4bee-9eb7-cf674f584394)
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/255f3de0-1d02-4cc8-ac75-9197f88e63d8)
+
 The Clear button helps to clear the result on the screen. 
 
 # Testing
