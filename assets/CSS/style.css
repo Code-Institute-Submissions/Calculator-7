@@ -40,10 +40,12 @@
     margin: auto;
 }
 body { 
+
     display: inline;
     background:#a8a8f7;
     justify-content: center;
     align-items: center;
+    
 }
 /*Body of the calculator*/
 .calculator {  
@@ -110,10 +112,11 @@ button {
 .footer {
     background-color: rgb(66, 80, 206);
     width: 100%;
-    height: fit-content;
+    height: 120px;
     margin-top: 0;
     margin-left: 0;
     margin-right: 0;
+    margin-bottom: 0;
     justify-content: center;
     text-align: center;
 }
