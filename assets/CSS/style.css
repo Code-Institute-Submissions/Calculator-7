@@ -56,8 +56,8 @@ body {
     background: #22252d;
     overflow: hidden;
     margin:auto;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 /*Display bar of the calculator*/
 form input {
