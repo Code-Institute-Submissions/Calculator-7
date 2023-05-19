@@ -90,5 +90,7 @@ To Create the Skeleton Balsamiq wireframe were used.
 # Credits
   
  * Stack Overflow For JavaScript Equal Button Code. 
+ * Fonts were taken from Google Fonts.
+ * Logo also taken from Google.
   
 
