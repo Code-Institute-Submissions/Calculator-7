@@ -4,7 +4,7 @@ A browser based calculator which created for addition, substraction, division & 
 
 ## Screenshot in Am I Responsive
 
-![image](https://github.com/Imalsha0330/Calculator/assets/131761126/4c85a610-2447-4953-8388-bb06f486e01e)
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/54c9d708-3fc7-407d-9432-ec46861af08d)
 
 ## Features
 
@@ -31,6 +31,16 @@ The Clear button helps to clear the result on the screen.
 # Testing
 * Tested on Google Chrome
 * Tested on Internet Explore
+* Tested Many Calculations to check the results.
+* All the Buttons are pressed and checked. 
+* favicon.ico:1     GET https://imalsha0330.github.io/favicon.ico 404 Error occur though I didn't include a favicon to this project.
+* Checked the console for Errors.
+* Checked on the WAVE and no Major Errors. 
+* Checked the project in different sizes (320 - 1920) Screenshots below. 
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/fa0e7bbe-8618-487c-9e37-10c1c544c511)
+* 320
+![image](https://github.com/Imalsha0330/Calculator/assets/131761126/91076024-59be-4fbc-bb6e-937daf35c092)
+* 1920
 
 # Bugs 
 * Bugs founded on the "section". Converted it to a "div" as per the instructions on W3C validator.
