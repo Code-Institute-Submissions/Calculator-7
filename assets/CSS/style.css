@@ -1,28 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700&family=Nunito:wght@200&display=swap');
+/* All Elements */
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; /* All Elements */
+    box-sizing: border-box;
 }
-
-body { /* Body of the HTML page*/
-    min-height: 100vh;
-    background:#a8a8f7;
+/*Header*/
+.main {
+    background-color: gray;
+    width: 100%;
+    height: fit-content;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    justify-content: center;
+}
+/*main heading 1*/
+.heading {
+    text-align: center;
+    font-family:'Nunito Sans', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+/*main heading 2*/
+.heading2 {
+    text-align: center;
+    font-family:'Nunito Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+/*logo*/ 
+.image {
     display: flex;
     justify-content: center;
-    align-items: center;
-
+    width: 50px;
+    height: 50px;
+    margin: auto;
 }
+body { 
 
-.calculator {  /*Body of the calculator*/
+    display: inline;
+    background:#a8a8f7;
+    justify-content: center;
+    align-items: center;
+    
+}
+/*Body of the calculator*/
+.calculator {  
     width: 300px;
     height: 500px;
     box-shadow: 4px 4px 30px rgba(0, 0, 0, 30);
     border-radius: 12px;
     background: #22252d;
     overflow: hidden;
+    margin:auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
-
-form input { /*Screen of the calculator*/
+/*Display bar of the calculator*/
+form input {
     width: 100%;
     height: 150px;
     border: none;
@@ -34,18 +72,16 @@ form input { /*Screen of the calculator*/
     text-align: right;
     pointer-events: none;
 }
-
-.buttons { /*Made the buttons in an Order*/
+/*Made the buttons in an Order*/
+.buttons { 
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 20px;
-
 }
-
-
+/*Button Size and other*/
 button {
-    flex: 0 0 22%; /*Button Size and other*/
+    flex: 0 0 22%; 
     margin: 5px 0;
     border: 1px solid black;
     width: 60px;
@@ -55,20 +91,51 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
-
-.btn-yellow { /*Addition / Substraction / Division/ Multilplication buttons color*/
+/*Addition / Substraction / Division/ Multilplication buttons color*/
+.btn-yellow { 
     background: rgb(51, 39, 223);
     color: #fff;
 }
-
-.btn-grey { /*Number Buttons Color*/
+/*Number Buttons Color*/
+.btn-grey { 
     background: rgb(224, 224, 224);
 }
-
-.btn-equal { /*Equal Button Color*/
+/*Equal Button Color*/
+.btn-equal { 
     background-color: rgb(87, 85, 6);
 }
-
-.btn-clear { /*Clear Button Color*/
+/*Clear Button Color*/
+.btn-clear { 
     background-color: rgb(192, 69, 69);
 }
+/*footer*/
+.footer {
+    background-color: rgb(66, 80, 206);
+    width: 100%;
+    height: fit-content;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    justify-content: center;
+    text-align: center;
+}
+/*footer Content 1 Social Media Links*/
+.fcont1 {
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color:black;
+    font-family:'Nunito Sans', sans-serif;
+} 
+/*footer Content 1 hover*/
+.fcont1:hover {
+    color: #fff;
+}
+/*footer Content 2 Copyrights*/
+.fcont2 {
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+} 
