@@ -1,1 +1,147 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700&family=Nunito:wght@200&display=swap');
+/* All Elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*Header*/
+.main {
+    background-color: gray;
+    width: 100%;
+    height: fit-content;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    justify-content: center;
+}
+/*main heading 1*/
+.heading {
+    text-align: center;
+    font-family:'Nunito Sans', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+/*main heading 2*/
+.heading2 {
+    text-align: center;
+    font-family:'Nunito Sans', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+/*logo*/ 
+.image {
+    display: flex;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    margin: auto;
+}
+/*Body*/
+html body {
+    margin: 0;
+    background-color: lightblue;
+}
+/*Body of the calculator*/
+.calculator {  
+    width: 300px;
+    height: 500px;
+    box-shadow: 4px 4px 30px rgba(0, 0, 0, 30);
+    border-radius: 12px;
+    background: #22252d;
+    overflow: hidden;
+    margin:auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+/*Display bar of the calculator*/
+form input {
+    width: 100%;
+    height: 150px;
+    border: none;
+    border-radius: 12px;
+    font-size: 2rem;
+    padding: 1rem;
+    color: #fff;
+    background-color: black;
+    text-align: right;
+    pointer-events: none;
+}
+/*Made the buttons in an Order*/
+.buttons { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+}
+/*Button Size and other*/
+button {
+    flex: 0 0 22%; 
+    margin: 5px 0;
+    border: 1px solid black;
+    width: 60px;
+    height: 52px;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/*Addition / Substraction / Division/ Multilplication buttons color*/
+.btn-yellow { 
+    background: rgb(35, 27, 146);
+    color: #fff;
+}
+/*Number Buttons Color*/
+.btn-grey { 
+    background: rgb(224, 224, 224);
+}
+/*Equal Button Color*/
+.btn-equal { 
+    background-color: rgb(87, 85, 6);
+}
+/*Clear Button Color*/
+.btn-clear { 
+    background-color: rgb(192, 69, 69);
+}
+/*footer*/
+.footer {
+    background-color: rgb(28, 26, 105);
+    bottom: 0;
+    width: 100%;
+    text-align: center; 
+    height: 250px;
+}
+/*footer Content 1 Social Media Links*/
+.fcont1 {
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color:gold;
+    font-family:'Nunito Sans', sans-serif;
+    margin-top: 8px;
+    margin-bottom: 8px;
+} 
+/*footer Content 1 hover*/
+.fcont1:hover {
+    color: #fff;
+}
+/*footer Content 2 Copyrights*/
+.fcont2 {
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+} 
+/*footer content 3 the address*/
+.fcont3 {
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color:rgb(245, 243, 243);
+    font-family:'Nunito Sans', sans-serif;
+    margin-top: 8px;
+    margin-bottom: 8px;
+} 
