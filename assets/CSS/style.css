@@ -40,12 +40,10 @@
     margin: auto;
 }
 body { 
-
     display: inline;
     background:#a8a8f7;
     justify-content: center;
     align-items: center;
-    
 }
 /*Body of the calculator*/
 .calculator {  
